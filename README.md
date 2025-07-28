@@ -1,6 +1,6 @@
 # SimpleDeploy
 
-This project is simple showcase how to:
+This project is a simple showcase how to:
 
 - Containerize a minimal Flask app
 - Deploy it on AWS using Terraform and Ansible
